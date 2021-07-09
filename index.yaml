@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  redis120:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-09T15:35:33.156325+08:00"
+    description: The helm chart for redis hehe
+    digest: d48dd19717d88f3cb5104bf51701622c47a06c35dcc29480892b04fc9c735074
+    name: redis120
+    type: application
+    urls:
+    - redis120-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-09T15:35:33.155002+08:00"
